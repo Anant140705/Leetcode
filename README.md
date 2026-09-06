@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Anant140705/Leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Anant140705/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anant140705/Leetcode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/Anant140705/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Anant140705/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anant140705/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Anant140705/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Anant140705/Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
