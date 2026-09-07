@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anant140705/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Anant140705/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anant140705/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/Anant140705/Leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Anant140705/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Anant140705/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Anant140705/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
